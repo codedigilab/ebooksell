@@ -35,12 +35,12 @@ document.write(`
               <div class="nav content-box d-md-block">
                 <h5 class="heading-footer line-style">Products</h5>
                 <ul>
-                  <li><a class="nav" href="shop.html">All Notes</a></li>
-                  <li><a class="nav" href="shop.html">Bundle Packs </a></li>
-                  <li><a class="nav" href="shop.html">Individual Packs </a></li>
-                  <li><a class="nav" href="shop.html">Subject Combos</a></li>
-                  <li><a class="nav" href="shop.html">QBank Combos </a></li>
-                  <li><a class="nav" href="shop.html">Full Set </a></li>
+                  <li><a class="nav" href="product.html">All Notes</a></li>
+                  <li><a class="nav" href="product.html">Bundle Packs </a></li>
+                  <li><a class="nav" href="product.html">Individual Packs </a></li>
+                  <li><a class="nav" href="product.html">Subject Combos</a></li>
+                  <li><a class="nav" href="product.html">QBank Combos </a></li>
+                  <li><a class="nav" href="product.html">Full Set </a></li>
                 </ul>
               </div>
             </div>
@@ -49,12 +49,12 @@ document.write(`
               <div class="nav d-md-block content-box">
                 <h5 class="heading-footer line-style">Combos</h5>
                 <ul>
-                  <li><a class="nav" href="shop.html">Class XI Subject Combo </a></li>
-                  <li><a class="nav" href="shop.html">Class XII Subject Combo </a></li>
-                  <li><a class="nav" href="shop.html">Class XI QBank Combo</a></li>
-                  <li><a class="nav" href="shop.html">Class XII QBank Combo </a></li>
-                  <li><a class="nav" href="shop.html">Class XI Grand Combo </a></li>
-                  <li><a class="nav" href="shop.html">Class XII Grand Combo </a></li>
+                  <li><a class="nav" href="product.html">Class XI Subject Combo </a></li>
+                  <li><a class="nav" href="product.html">Class XII Subject Combo </a></li>
+                  <li><a class="nav" href="product.html">Class XI QBank Combo</a></li>
+                  <li><a class="nav" href="product.html">Class XII QBank Combo </a></li>
+                  <li><a class="nav" href="product.html">Class XI Grand Combo </a></li>
+                  <li><a class="nav" href="product.html">Class XII Grand Combo </a></li>
 
                 </ul>
               </div>
@@ -64,12 +64,12 @@ document.write(`
               <div class="nav d-md-block content-box">
                 <h5 class="heading-footer line-style">Individual Notes</h5>
                 <ul>
-                  <li><a class="nav" href="shop.html">Physics - Class XI  </a></li>
-                  <li><a class="nav" href="shop.html">Chemistry - Class XI </a></li>
-                  <li><a class="nav" href="shop.html">Biology - Class XI</a></li>
-                  <li><a class="nav" href="shop.html">Physics - Class XII</a></li>
-                  <li><a class="nav" href="shop.html">Chemistry - Class XII</a></li>
-                  <li><a class="nav" href="shop.html">Biology - Class XII</a></li>
+                  <li><a class="nav" href="product.html">Physics - Class XI  </a></li>
+                  <li><a class="nav" href="product.html">Chemistry - Class XI </a></li>
+                  <li><a class="nav" href="product.html">Biology - Class XI</a></li>
+                  <li><a class="nav" href="product.html">Physics - Class XII</a></li>
+                  <li><a class="nav" href="product.html">Chemistry - Class XII</a></li>
+                  <li><a class="nav" href="product.html">Biology - Class XII</a></li>
                 </ul>
               </div>
             </div>
@@ -101,7 +101,7 @@ document.write(`
               </ul>
             </div>
             <div class="col-md-6">
-              <p class="mb-0">Copyright © 2023 Self Study Notes| All rights reserved | <a href="PrivacyPolicy.html">  Privacy Policy </a> | <a href="RefundPolicy.html"> Refund Policy </a> | Terms of Services</p>
+              <p class="mb-0 ">Copyright © 2025 Self Study Notes| All rights reserved | <a href="PrivacyPolicy.html" class="text-white">  Privacy Policy </a> | <a href="RefundPolicy.html" class="text-white"> Refund Policy </a> | <a class="text-white" href="TermsofServices.html"> Terms of Services</a> </p>
             </div>
           </div>
         </div>

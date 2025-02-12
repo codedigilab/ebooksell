@@ -5,10 +5,10 @@ document.write(`
   <!-- Document Footer Start -->
   <footer class="footer-document footer-document2 footer-document4 ratio_asos mb-xxl dark-footer">
     <div class="bg-footer-l">
-      <img src="/assets/images/bag/banner/bg-footer-l.png" alt="banner" />
+      <img src="assets/images/bag/banner/bg-footer-l.png" alt="banner" />
     </div>
     <div class="bg-footer-r">
-      <img src="/assets/images/bag/banner/bg-footer-r.png" alt="banner" />
+      <img src="assets/images/bag/banner/bg-footer-r.png" alt="banner" />
     </div>
     <div>
       <div class="container-lg">
@@ -16,7 +16,7 @@ document.write(`
           <div class="row gy-3 gy-md-4 gy-xl-0">
             <div class="col-xl-3 col-lg-4 col-md-6">
               <div class="content-box">
-                <img class="logo" src="/assets/images/logos/logo-5.png" alt="logo-white" />
+                <img class="logo" src="assets/images/logos/logo-5.png" alt="logo-white" />
                 <ul>
                   <li><i data-feather="map-pin"></i> <span> 1418 Riverwood Drive, Suite 3245 Cottonwood, CA 96052,
                       United States </span></li>
@@ -83,19 +83,19 @@ document.write(`
             <div class="col-md-6">
               <ul>
                 <li>
-                  <a href="javascript:void(0)"> <img src="/assets/icons/png/1.png" class="img-fluid blur-up lazyload"
+                  <a href="javascript:void(0)"> <img src="assets/icons/png/1.png" class="img-fluid blur-up lazyload"
                       alt="payment icon" /></a>
                 </li>
                 <li>
-                  <a href="javascript:void(0)"> <img src="/assets/icons/png/2.png" class="img-fluid blur-up lazyload"
+                  <a href="javascript:void(0)"> <img src="assets/icons/png/2.png" class="img-fluid blur-up lazyload"
                       alt="payment icon" /></a>
                 </li>
                 <li>
-                  <a href="javascript:void(0)"> <img src="/assets/icons/png/3.png" class="img-fluid blur-up lazyload"
+                  <a href="javascript:void(0)"> <img src="assets/icons/png/3.png" class="img-fluid blur-up lazyload"
                       alt="payment icon" /></a>
                 </li>
                 <li>
-                  <a href="javascript:void(0)"> <img src="/assets/icons/png/4.png" class="img-fluid blur-up lazyload"
+                  <a href="javascript:void(0)"> <img src="assets/icons/png/4.png" class="img-fluid blur-up lazyload"
                       alt="payment icon" /></a>
                 </li>
               </ul>
@@ -150,7 +150,7 @@ document.write(`
   <!-- Notification Start -->
   <div class="notification-wrap dark-notification addToCart">
     <div class="notification">
-      <img src="/assets/images/watch/product/jpg/16.jpg" alt="product" />
+      <img src="assets/images/watch/product/jpg/16.jpg" alt="product" />
       <div>
         <h5>Added To Cart</h5>
       </div>
@@ -161,7 +161,7 @@ document.write(`
   <!-- Notification Start -->
   <div class="notification-wrap dark-notification addToWishlist">
     <div class="notification">
-      <img src="/assets/images/watch/product/jpg/16.jpg" alt="product" />
+      <img src="assets/images/watch/product/jpg/16.jpg" alt="product" />
       <div>
         <h5>Added To Wishlist</h5>
       </div>
@@ -188,19 +188,19 @@ document.write(`
                       <div class="swiper thumbnail-img-box thumbnailSlider">
                         <div class="swiper-wrapper">
                           <div class="swiper-slide">
-                            <img src="/assets/images/watch/product/jpg/16.jpg" alt="img" />
+                            <img src="assets/images/watch/product/jpg/16.jpg" alt="img" />
                           </div>
                           <div class="swiper-slide">
-                            <img src="/assets/images/watch/product/jpg/16-1.jpg" alt="img" />
+                            <img src="assets/images/watch/product/jpg/16-1.jpg" alt="img" />
                           </div>
                           <div class="swiper-slide">
-                            <img src="/assets/images/watch/product/jpg/16-2.jpg" alt="img" />
+                            <img src="assets/images/watch/product/jpg/16-2.jpg" alt="img" />
                           </div>
                           <div class="swiper-slide">
-                            <img src="/assets/images/watch/product/jpg/16-3.jpg" alt="img" />
+                            <img src="assets/images/watch/product/jpg/16-3.jpg" alt="img" />
                           </div>
                           <div class="swiper-slide">
-                            <img src="/assets/images/watch/product/jpg/16-2.jpg" alt="img" />
+                            <img src="assets/images/watch/product/jpg/16-2.jpg" alt="img" />
                           </div>
                         </div>
                       </div>
@@ -210,19 +210,19 @@ document.write(`
                     <div class="swiper mainslider">
                       <div class="swiper-wrapper">
                         <div class="swiper-slide">
-                          <img class="bg-img" src="/assets/images/watch/product/jpg/16.jpg" alt="img" />
+                          <img class="bg-img" src="assets/images/watch/product/jpg/16.jpg" alt="img" />
                         </div>
                         <div class="swiper-slide">
-                          <img class="bg-img" src="/assets/images/watch/product/jpg/16-1.jpg" alt="img" />
+                          <img class="bg-img" src="assets/images/watch/product/jpg/16-1.jpg" alt="img" />
                         </div>
                         <div class="swiper-slide">
-                          <img class="bg-img" src="/assets/images/watch/product/jpg/16-2.jpg" alt="img" />
+                          <img class="bg-img" src="assets/images/watch/product/jpg/16-2.jpg" alt="img" />
                         </div>
                         <div class="swiper-slide">
-                          <img class="bg-img" src="/assets/images/watch/product/jpg/16-3.jpg" alt="img" />
+                          <img class="bg-img" src="assets/images/watch/product/jpg/16-3.jpg" alt="img" />
                         </div>
                         <div class="swiper-slide">
-                          <img class="bg-img" src="/assets/images/watch/product/jpg/16-2.jpg" alt="img" />
+                          <img class="bg-img" src="assets/images/watch/product/jpg/16-2.jpg" alt="img" />
                         </div>
                       </div>
                     </div>
@@ -288,27 +288,27 @@ document.write(`
   <!-- Tap To Top Button End -->
 
   <!-- Bootstrap Js -->
-  <script src="/assets/js/bootstrap/bootstrap.bundle.min.js"></script>
-<script src="/assets/js/timer.js"></script>
+  <script src="assets/js/bootstrap/bootstrap.bundle.min.js"></script>
+<script src="assets/js/timer.js"></script>
   <!-- Feather Icon -->
-  <script src="/assets/js/feather/feather.min.js"></script>
+  <script src="assets/js/feather/feather.min.js"></script>
 
   <!-- Swiper Slider Js -->
-  <script src="/assets/js/swiper-slider/swiper-bundle.min.js"></script>
-  <script src="/assets/js/swiper-slider/swiper-custom.min.js"></script>
+  <script src="assets/js/swiper-slider/swiper-bundle.min.js"></script>
+  <script src="assets/js/swiper-slider/swiper-custom.min.js"></script>
 
   <!-- Header Sticky js  -->
-  <script src="/assets/js/sticky-header.js"></script>
+  <script src="assets/js/sticky-header.js"></script>
 
   <!-- Active Class js  -->
-  <script src="/assets/js/active-class.js"></script>
+  <script src="assets/js/active-class.js"></script>
 
   <!-- Wow Js -->
-  <script src="/assets/js/wow.js"></script>
-  <script src="/assets/js/wow-custom.js"></script>
+  <script src="assets/js/wow.js"></script>
+  <script src="assets/js/wow-custom.js"></script>
 
   <!-- Script Js -->
-  <script src="/assets/js/script.js"></script>
+  <script src="assets/js/script.js"></script>
   <script src="include/data.js"></script>
 
 

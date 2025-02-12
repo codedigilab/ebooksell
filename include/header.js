@@ -28,8 +28,8 @@ document.write(`
                   <span class="navbar-toggler-icon"></span>
                 </button>
                 <a href="index.html" class="logo-link">
-                  <img class="logo logo-dark" src="/assets/images/logos/logo-5.png" alt="logo" />
-                  <img class="logo logo-light" src="/assets/images/logos/logo-5.png" alt="logo" />
+                  <img class="logo logo-dark" src="assets/images/logos/logo-5.png" alt="logo" />
+                  <img class="logo logo-light" src="assets/images/logos/logo-5.png" alt="logo" />
                 </a>
                 <div class="offcanvas offcanvas-collapse order-lg-2" id="primaryMenu">
                   <div class="offcanvas-header navbar-shadow">

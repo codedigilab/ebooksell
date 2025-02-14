@@ -18,14 +18,13 @@ document.write(`
               <div class="content-box">
                 <img class="logo" src="assets/images/logos/logo-5.png" alt="logo-white" />
                 <ul>
-                  <li><i data-feather="map-pin"></i> <span> 1418 Riverwood Drive, Suite 3245 Cottonwood, CA 96052,
-                      United States </span></li>
+                  <li><i data-feather="map-pin"></i> <span> Darbhanga Donar Near Petrol Pumps Bihar 846009 </span></li>
                   <li>
-                    <i data-feather="phone"></i><a class="nav" href="tel:185659635"><span> + 185659635 </span></a>
+                    <i data-feather="phone"></i><a class="nav" href="tel:+919304340719"><span> +91 9304340719 </span></a>
                   </li>
                   <li>
-                    <i data-feather="mail"></i><a class="nav" href="mailto:fashion098@gmail.com"><span>
-                        fashion098@gmail.com </span></a>
+                    <i data-feather="mail"></i><a class="nav" href="mailto:admin@selfstudynote.in"><span>
+                        admin@selfstudynote.in </span></a>
                   </li>
                 </ul>
               </div>
@@ -35,12 +34,12 @@ document.write(`
               <div class="nav content-box d-md-block">
                 <h5 class="heading-footer line-style">Products</h5>
                 <ul>
-                  <li><a class="nav" href="product.html">All Notes</a></li>
-                  <li><a class="nav" href="product.html">Bundle Packs </a></li>
-                  <li><a class="nav" href="product.html">Individual Packs </a></li>
-                  <li><a class="nav" href="product.html">Subject Combos</a></li>
-                  <li><a class="nav" href="product.html">QBank Combos </a></li>
-                  <li><a class="nav" href="product.html">Full Set </a></li>
+                  <li><a class="nav" href="index.html">All Notes</a></li>
+                  <li><a class="nav" href="index.html">Bundle Packs </a></li>
+                  <li><a class="nav" href="index.html">Individual Packs </a></li>
+                  <li><a class="nav" href="index.html">Subject Combos</a></li>
+                  <li><a class="nav" href="index.html">QBank Combos </a></li>
+                  <li><a class="nav" href="index.html">Full Set </a></li>
                 </ul>
               </div>
             </div>
@@ -49,12 +48,12 @@ document.write(`
               <div class="nav d-md-block content-box">
                 <h5 class="heading-footer line-style">Combos</h5>
                 <ul>
-                  <li><a class="nav" href="product.html">Class XI Subject Combo </a></li>
-                  <li><a class="nav" href="product.html">Class XII Subject Combo </a></li>
-                  <li><a class="nav" href="product.html">Class XI QBank Combo</a></li>
-                  <li><a class="nav" href="product.html">Class XII QBank Combo </a></li>
-                  <li><a class="nav" href="product.html">Class XI Grand Combo </a></li>
-                  <li><a class="nav" href="product.html">Class XII Grand Combo </a></li>
+                  <li><a class="nav" href="index.html">Class XI Subject Combo </a></li>
+                  <li><a class="nav" href="index.html">Class XII Subject Combo </a></li>
+                  <li><a class="nav" href="index.html">Class XI QBank Combo</a></li>
+                  <li><a class="nav" href="index.html">Class XII QBank Combo </a></li>
+                  <li><a class="nav" href="index.html">Class XI Grand Combo </a></li>
+                  <li><a class="nav" href="index.html">Class XII Grand Combo </a></li>
 
                 </ul>
               </div>
@@ -64,12 +63,12 @@ document.write(`
               <div class="nav d-md-block content-box">
                 <h5 class="heading-footer line-style">Individual Notes</h5>
                 <ul>
-                  <li><a class="nav" href="product.html">Physics - Class XI  </a></li>
-                  <li><a class="nav" href="product.html">Chemistry - Class XI </a></li>
-                  <li><a class="nav" href="product.html">Biology - Class XI</a></li>
-                  <li><a class="nav" href="product.html">Physics - Class XII</a></li>
-                  <li><a class="nav" href="product.html">Chemistry - Class XII</a></li>
-                  <li><a class="nav" href="product.html">Biology - Class XII</a></li>
+                  <li><a class="nav" href="index.html">Physics - Class XI  </a></li>
+                  <li><a class="nav" href="index.html">Chemistry - Class XI </a></li>
+                  <li><a class="nav" href="index.html">Biology - Class XI</a></li>
+                  <li><a class="nav" href="index.html">Physics - Class XII</a></li>
+                  <li><a class="nav" href="index.html">Chemistry - Class XII</a></li>
+                  <li><a class="nav" href="index.html">Biology - Class XII</a></li>
                 </ul>
               </div>
             </div>
@@ -268,7 +267,7 @@ document.write(`
                   <div class="btn-group">
                     <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#viewModal"
                       class="btn-solid btn-sm addtocart-btn">Add To Cart </a>
-                    <a href="product.html" class="btn-outline dark-btn btn-sm">View Full</a>
+                    <a href="index.html" class="btn-outline dark-btn btn-sm">View Full</a>
                   </div>
                 </div>
               </div>

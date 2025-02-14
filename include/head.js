@@ -18,7 +18,7 @@ document.write(`
   <meta name="msapplication-TileImage" content="assets/images/favicon/favicon.png" />
   <meta name="msapplication-TileColor" content="#FFFFFF" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Oslo | Home</title>
+  <title>Self Study Notes</title>
 
   <!-- Google Jost Font -->
   <link rel="preconnect" href="https://fonts.googleapis.com/" />
